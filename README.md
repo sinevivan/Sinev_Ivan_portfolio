@@ -24,10 +24,8 @@
 #### Финальный проект (2я часть) - проверка корректности проведения А/В теста.
 #### Исследования рынка общепита в Москве.
 
-<td><b>1)</b></td> 
-<a href="https://nbviewer.org/github/sinevivan/project_storage/blob/main/%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%BE%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%28%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%B0%29.ipynb"><b>Финальный проект (основной) - анализ мобильного приложения.</b></a>
-<tr>
-  
+#### <td><b>1)</b></td> 
+<a href="https://nbviewer.org/github/sinevivan/project_storage/blob/main/%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%BE%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%28%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%B0%29.ipynb"><b>Финальный проект (основной) - анализ мобильного приложения.</b></a><tr>
 <td><b>2)</b></td>
 <a href="https://nbviewer.org/github/sinevivan/project_storage/blob/main/%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%BE%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%28%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0%20%D0%90%D0%91%20%D1%82%D0%B5%D1%81%D1%82%D0%B0.ipynb"><b>Финальный проект (2я часть) - проверка корректности проведения А/В теста.</b></a>
 <tr>
